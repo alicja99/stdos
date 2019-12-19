@@ -1,14 +1,5 @@
 # stdos
-<h1>Operating System Implemented in Java</h1>
-
- _____    _______   _______      _    _    _______    _____
-/ / \_\  /_______\ | |   \ \    |_|  |_|  / /   \ \  / / \_\
-\_\____     | |    | |    | |             | |   | |  \_\____ 
-__   \ \    | |    | |    | |    _    _   | |   | |  __   \ \
-\_\__/_/    |_|    |_|___/_/    |_|  |_|  \_\___/_/  \_\__/_/ 
-    
-
-<h2>OS created during studies</h2>
+<h1>Operating System Implemented in Java: STD::OS</h1>
 
 <ul>System contains 8 modules: 
 <li> Semaphore - Counting Semaphore
