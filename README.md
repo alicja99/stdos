@@ -1,5 +1,5 @@
 # stdos
-<h1>Operating System Implemented in Java: STD::OS</h1>
+<h1>Operating System Implemented in Java</h1>
 
 <ul>System contains 8 modules: 
 <li> Semaphore - Counting Semaphore
